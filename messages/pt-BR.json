@@ -1,0 +1,121 @@
+{
+  "navigation": {
+    "experience": "Experiência",
+    "education": "Formação",
+    "projects": "Projetos",
+    "contact": "Contato"
+  },
+  "hero": {
+    "title": "Desenvolvimento Full Stack",
+    "description": "Apaixonado por criar soluções inovadoras. Formado em Sistemas de Informação. Colaborando no desenvolvimento de projetos impactantes em uma empresa com foco na qualidade.",
+    "skills": {
+      "react": "React",
+      "typescript": "TypeScript",
+      "nodejs": "Node.js",
+      "javascript": "JavaScript",
+      "nextjs": "Next.js",
+      "tailwind": "Tailwind CSS",
+      "csharp": "C#",
+      "dotnet": ".NET",
+      "python": "Python",
+      "mysql": "MySQL"
+    }
+  },
+  "experience": {
+    "title": "Experiência Profissional",
+    "jobs": {
+      "attime": {
+        "title": "Analista de Sistemas",
+        "company": "AtTime",
+        "period": "Fev 2025 - Presente",
+        "location": "Belo Horizonte, MG, Brasil · Híbrido",
+        "description": "Solução ERP Star para o mercado de seguradoras com tecnologia .NET, responsável por analisar requisitos, realizar testes funcionais, projetar e implementar melhorias e colaborar com diferentes áreas para garantir a integração e eficiência dos processos."
+      },
+      "teknisa": {
+        "title": "Desenvolvedor Full Stack",
+        "company": "Teknisa",
+        "period": "Jul 2024 - Fev 2025",
+        "location": "Belo Horizonte, MG, Brasil · Híbrido",
+        "description": "Desenvolvimento e manutenção de sistemas integrados focados no setor de alimentação, resolução de bugs, execução de testes de funcionalidade, gerenciamento de dependências, criação de relatórios e participação em reuniões para melhoria contínua de produtos."
+      },
+      "outlier": {
+        "title": "Instrutor de IA Generativa",
+        "company": "Outlier",
+        "period": "Mai 2024 - Dez 2024",
+        "location": "Remoto",
+        "description": "Tarefas relacionadas ao treinamento de IAs Generativas: criação de prompts com diferentes níveis de complexidade e variedade de tópicos, análise de dados e verificação de fatos."
+      },
+      "teamhub": {
+        "title": "Desenvolvedor Front-end",
+        "company": "TeamHub",
+        "period": "Jan 2021 - Jan 2022",
+        "location": "Belo Horizonte, MG, Brasil · Remoto",
+        "description": "Desenvolvimento web com foco na criação e implementação de novos produtos voltados para a gestão da cultura organizacional, utilizando React, TypeScript, Next e Node como principais tecnologias."
+      }
+    }
+  },
+  "education": {
+    "title": "Formação",
+    "education_section": "Educação",
+    "degree": {
+      "title": "Bacharelado em Sistemas de Informação",
+      "institution": "Cruzeiro do Sul Virtual",
+      "period": "2020 - 2023"
+    },
+    "technical": {
+      "title": "Técnico em Informática",
+      "institution": "COTEMIG - Colégio e Faculdade",
+      "period": "2017 - 2018"
+    },
+    "languages": {
+      "title": "Idiomas",
+      "portuguese": "Português: Fluente - Nativo",
+      "english": "Inglês: Avançado - Certificação C2 EF SET"
+    },
+    "certifications": {
+      "title": "Licenças e Certificações",
+      "efset": "Certificado EF SET de Inglês 72/100 (C2 Proficiente)",
+      "rocketseat_discover": "Rocketseat – Discover",
+      "rocketseat_conectar": "Rocketseat – Conectar",
+      "rocketseat_especializar": "Rocketseat – Especializar",
+      "rocketseat_fundamentar": "Rocketseat – Fundamentar",
+      "branas": "branas.io – Aprenda a Programar com JS, HTML e CSS",
+      "alura_aprendizagem": "Alura – Formação Aprendizagem",
+      "alura_react": "Alura – Formação React JS",
+      "balta_node": "balta.io – Criando APIs com Node",
+      "balta_react": "balta.io – Criando um App com React, TypeScript, Hooks, Context e Forms"
+    }
+  },
+  "projects": {
+    "title": "Projetos",
+    "subtitle": "Projetos no GitHub",
+    "viewMore": "Ver mais",
+    "searchPlaceholder": "Buscar projeto…",
+    "filters": {
+      "all": "Todos",
+      "react": "React",
+      "nodejs": "Node.js",
+      "typescript": "TypeScript"
+    }
+  },
+  "contact": {
+    "title": "Contato",
+    "subtitle": "Vamos nos conectar. Fique à vontade para entrar em contato.",
+    "form": {
+      "name": "Nome",
+      "email": "Email",
+      "subject": "Assunto",
+      "message": "Mensagem",
+      "send": "Enviar Mensagem"
+    },
+    "links": {
+      "github": "GitHub",
+      "linkedin": "LinkedIn",
+      "instagram": "Instagram",
+      "lattes": "Currículo Lattes"
+    }
+  },
+  "footer": {
+    "madeWith": "Feito com Next.js por Bernardo Vaz."
+  }
+}
