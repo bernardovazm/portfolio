@@ -70,6 +70,9 @@ jobs:
             exit 1
           fi
 
+      - name: Clean Next.js cache
+        run: rm -rf .next/cache
+
       - name: Build with Next.js
         run: ${{ steps.detect-package-manager.outputs.runner }} next build
 

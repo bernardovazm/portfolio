@@ -21,5 +21,3 @@ export default async function Home() {
 export async function generateStaticParams() {
   return [{ locale: "en" }];
 }
-
-export const dynamic = "force-dynamic";
