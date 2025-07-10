@@ -2,6 +2,10 @@
 
 Portfolio built with Next.js, with GitHub repository display.
 
+<p align="center">
+  <img alt="Preview website DevLinks" src=".github/preview.png" width="100%">
+</p>
+
 ### Features
 
 - Responsive layout with Tailwind CSS (mobile-first)

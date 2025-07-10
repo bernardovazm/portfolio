@@ -5,11 +5,6 @@ import Contact from "@/components/Contact";
 import Experience from "@/components/Experience";
 import Education from "@/components/Education";
 
-export async function generateStaticParams() {
-  const locales = ["en", "pt-BR"];
-  return locales.map((locale) => ({ locale }));
-}
-
 export default async function Home() {
   const repos = await fetchRepos("bernardovazm");
   return (
@@ -23,4 +18,8 @@ export default async function Home() {
   );
 }
 
-export const dynamic = "force-static";
+export async function generateStaticParams() {
+  return [{ locale: "pt-BR" }];
+}
+
+export const dynamic = "force-dynamic";
